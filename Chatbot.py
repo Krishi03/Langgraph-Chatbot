@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""1-Getting Started Langraph.ipynb
-
-## Chatbots With Langgraph
-"""
 
 !pip install langgraph langsmith
 
